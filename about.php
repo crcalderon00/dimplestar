@@ -5,7 +5,7 @@ session_start();
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>About Us - Dimple Star Transport</title>
+  <title>About Us - Dimple Transport</title>
   <link rel="stylesheet" href="style/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
