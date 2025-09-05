@@ -28,6 +28,7 @@ $bookings = [
         <li><a href="terminal.php">Terminal</a></li>
         <li><a href="info.php">Info</a></li>
         <li><a href="contact.php">Contact</a></li>
+        <li><a href="about.php">About</a></li>
         <?php if(isset($_SESSION['user'])): ?>
           <li><a href="logout.php">Logout</a></li>
         <?php else: ?>
